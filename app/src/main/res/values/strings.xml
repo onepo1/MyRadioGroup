@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRadioGroup</string>
+    <string name="radiogroupbutton01">radiogroupbutton01value</string>
+    <string name="radiogroupbutton02">radiogroupbutton02value</string>
+</resources>
